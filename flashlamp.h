@@ -2,7 +2,7 @@
 #define FLASHLAMP_H
 
 #include <QWidget>
-#include "../../qmqttlib/qmqtt.h"
+#include "qmqttlib/qmqtt.h"
 
 namespace Ui {
 class flashlamp;
