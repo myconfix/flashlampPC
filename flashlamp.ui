@@ -190,7 +190,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QDial" name="Holder_Dial">
+      <widget class="QDial" name="Arm_Dial">
        <property name="sizePolicy">
         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
          <horstretch>2</horstretch>
@@ -235,45 +235,6 @@
      </item>
     </layout>
    </widget>
-  </widget>
-  <widget class="QLabel" name="label_6">
-   <property name="geometry">
-    <rect>
-     <x>60</x>
-     <y>630</y>
-     <width>221</width>
-     <height>16</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Convert Degree to pulse</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="base_pulse_label">
-   <property name="geometry">
-    <rect>
-     <x>240</x>
-     <y>630</y>
-     <width>55</width>
-     <height>16</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>TextLabel</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="arm_pulse_label">
-   <property name="geometry">
-    <rect>
-     <x>450</x>
-     <y>630</y>
-     <width>55</width>
-     <height>16</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>TextLabel</string>
-   </property>
   </widget>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
