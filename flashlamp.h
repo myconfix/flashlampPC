@@ -35,6 +35,7 @@ private slots:
 
     void on_Base_Dial_valueChanged(int value);
 
+
 private:
     Ui::flashlamp *ui;
     QMQTT::Client *client;
